@@ -41,6 +41,21 @@ Beats(Collect Data such as Windows logs and Network Packers) ->  LogStash collec
 
 <img width="1658" height="646" alt="Screenshot 2026-01-09 135316" src="https://github.com/user-attachments/assets/ede9f85f-a48f-43d7-8016-0947bc7eaa21" />
 
+Free form search:
+<img width="1168" height="273" alt="image" src="https://github.com/user-attachments/assets/9ac861bb-1dac-4343-8637-8bfd6832c0cc" />
+Not Operator in Free Form Search:
+<img width="588" height="200" alt="image" src="https://github.com/user-attachments/assets/33c16014-a257-4e78-8760-3571a4a41864" />
+
+
+
+Field Based Search uses colon and is not a free form search:
+
+<img width="1530" height="648" alt="image" src="https://github.com/user-attachments/assets/b199a44e-5c29-4b4f-9437-419675899aec" />
+
+
+
+
+
 
 
 

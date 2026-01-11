@@ -60,6 +60,42 @@ Field Based Search uses colon and is not a free form search:
 
 
 
+CREATING a failed filter to see how many ip's failed to connect:
+<img width="1069" height="198" alt="image" src="https://github.com/user-attachments/assets/258c7299-6b95-4e64-bfca-34ad04c6473b" />
+
+
+1. Apply filter:
+   
+<img width="798" height="356" alt="image" src="https://github.com/user-attachments/assets/c1b31aa9-8326-4fb1-95fe-4dc8b2d9a6de" />
+
+2. Click the field you want to visualize:  I clicked Sourc Ip:
+   
+<img width="511" height="451" alt="image" src="https://github.com/user-attachments/assets/8038a452-1424-4f21-93d9-f65f706b8e54" />
+
+3. Click as Table to see the data properly.
+
+<img width="1023" height="610" alt="image" src="https://github.com/user-attachments/assets/a6140a7b-b9be-478f-8d6d-11db3df256fa" />
+
+4. We can just drag and drop the username to coorelate and know which user has the failed ip or which user had the failed connection, we can use the vpn_connection or whatever is in the field.
+
+<img width="1192" height="575" alt="image" src="https://github.com/user-attachments/assets/9c68493b-7071-412d-892b-dd6afc3e1107" />
+
+This is what we see with the details of the user and the ip.
+
+<img width="1191" height="359" alt="image" src="https://github.com/user-attachments/assets/56dc0257-2f87-4210-916d-f091e37ba9b2" />
+
+
+we can also apply other visualizations like bar graph or pie chart.
+
+
+
+To add data in the dashboard, we just click dashboard and click add from Library and we have to "SAVE IT"
+<img width="1535" height="522" alt="image" src="https://github.com/user-attachments/assets/7fd6d3e7-f156-41e3-8dd1-eec3edde1b5a" />
+
+
+
+
+
 
 
 
